@@ -4,4 +4,4 @@ Mountains and Monsters is a text-based RPG. Hours of fun is guaranteed! The game
 
 This game is the thrilling sequel to the classic RPG Caves and Critters. If you want to see Caves and Critters, visit coderbeard's user.
 
-For more details, visit https://SirEdBr.github.io/MountainsAndMonsters
+For more details, https://github.com/SirEdBr/MountainsAndMonsters/wiki
